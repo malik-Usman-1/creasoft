@@ -16,8 +16,8 @@ export default function Sec6() {
                 <div className=' space-x-6'>
                 <button className='  h-7 w-24 bg-black rounded-full text-white text-base font-bold leading-4' >Featured</button>
                 <button className='  h-7 w-32  rounded-full text-black text-base font-bold leading-4' >Family-friendly</button>
-                <button className='  h-7 w-24  rounded-full text-black text-base font-bold leading-4' >On sale</button>
-                <button className='  h-7 w-24  rounded-full text-black text-base font-bold leading-4' >Sub nav</button>
+                <button className='  h-7 w-24  rounded-full text-black text-base font-bold leading-4' >On sale one</button>
+                <button className='  h-7 w-24  rounded-full text-black text-base font-bold leading-4' >Sub nav two</button>
                 </div>
                 <div>
                     <div className=' h-10 w-44 bg-white text-black text-base font-medium leading-6 flex justify-center items-center rounded-2xl'>Recently added</div>
